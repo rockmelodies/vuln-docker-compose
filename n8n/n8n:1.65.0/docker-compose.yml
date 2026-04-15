@@ -1,0 +1,6 @@
+services:
+  n8n:
+    image: rockmelodies/n8n:1.65.0
+    ports:
+      - "5678:5678"
+
